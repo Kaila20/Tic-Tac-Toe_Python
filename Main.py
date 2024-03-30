@@ -1,4 +1,4 @@
-from helpers import check_turn, check_for_win, draw_board
+from Spots_Draw_Check import check_turn, check_for_win, draw_board
 import os
 # Declare all the variables
 spots = {1 : '1', 2 : '2', 3: '3', 4 : '4', 5 : '5', 
