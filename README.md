@@ -1,4 +1,4 @@
-# Since the output is not showing on github, I will display the output here via my terminal (vscode)
+# Output
 
 #Start: ![image](https://github.com/user-attachments/assets/960d7c49-106d-480f-a929-03647e9bb28a)
 
