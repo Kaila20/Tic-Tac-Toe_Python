@@ -6,7 +6,7 @@
 
 #The next player, hypothetically, chooses 5. Now is is the next player (player 10 turn to choose: ![image](https://github.com/user-attachments/assets/b3eba0e5-a26d-4932-9447-b592e20b43e6)
 
-# Turns will continue untill a tie or a winner is met
+#Turns will continue untill a tie or a winner is met
 
 
 
